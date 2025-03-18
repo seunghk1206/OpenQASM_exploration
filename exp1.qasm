@@ -1,3 +1,9 @@
+/* exp1.qasm
+ * The first file of qasm. Got the snippet from one of the examples provided by IBM on the
+ * following website:
+ * https://docs.quantum.ibm.com/guides/introduction-to-qasm
+ */
+
 OPENQASM 3;
 include "stdgates.inc";
 
